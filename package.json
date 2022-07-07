@@ -105,5 +105,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "packageManager": "yarn@1.22.10"
 }
