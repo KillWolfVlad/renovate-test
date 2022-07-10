@@ -481,7 +481,7 @@ __metadata:
     jest: "npm:28.1.2"
     jest-extended: "npm:3.0.0"
     lint-staged: "npm:13.0.3"
-    lodash: "npm:4.17.0"
+    lodash: "npm:4.17.21"
     markdownlint-cli: "npm:0.31.1"
     pinst: "npm:3.0.0"
     prettier: "npm:2.7.1"
@@ -6125,14 +6125,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lodash@npm:4.17.0":
-  version: 4.17.0
-  resolution: "lodash@npm:4.17.0"
-  checksum: e1d28b6051b0440e3c49517a09673c7941c7b7cea2e757febacf740c6df8693b9894265e1bbd2dc5de590acbb52048114b1200d47eb78e05e4330801187b8a86
-  languageName: node
-  linkType: hard
-
-"lodash@npm:^4.17.15, lodash@npm:^4.17.19, lodash@npm:^4.17.21, lodash@npm:^4.17.4":
+"lodash@npm:4.17.21, lodash@npm:^4.17.15, lodash@npm:^4.17.19, lodash@npm:^4.17.21, lodash@npm:^4.17.4":
   version: 4.17.21
   resolution: "lodash@npm:4.17.21"
   checksum: 3ac18e92108d68f88429fcddee609e42cf2b653583d9bac22308815a4cd6b185b89a0ad0d9b0c670c371d9d6b61571a98fee6b36e1db14e52766ca253ed9cba0
